@@ -1,7 +1,15 @@
 {
-    "name": "artyom-e/php-commission-fee-task",
+    "name": "artemind/php-commission-fee-task",
     "description": "Test Commission Task",
     "keywords": [],
+    "authors": [
+        {
+            "name": "Artem Yeremenko",
+            "email": "contact@artemind.dev",
+            "role": "Developer",
+            "homepage": "https://artemind.dev"
+        }
+    ],
     "type": "project",
     "autoload": {
         "psr-4": {
